@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="libs/java-json.jar"/>
+	<classpathentry kind="lib" path="libs/netty-all-4.1.19.Final.jar"/>
+	<classpathentry kind="lib" path="libs/kafka_2.10-0.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="libs/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="libs/gradle-0.4.2.jar"/>
+	<classpathentry kind="lib" path="build.gradle"/>
+	<classpathentry kind="lib" path="libs/org.apache.ivy.eclipse.ant_2.4.0.final_20141213170938.jar"/>
+	<classpathentry kind="lib" path="C:/kafka-1.0.0-src"/>
+	<classpathentry kind="lib" path="C:/zookeeper-3.4.10"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
